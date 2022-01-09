@@ -1,0 +1,8 @@
+# ninja log v5
+0	10	1640088419462801889	skillvox_36_console_autogen/timestamp	6892ae1f46b259b
+0	10	1640088419462801889	skillvox_36_console_autogen/mocs_compilation.cpp	6892ae1f46b259b
+0	10	1640088419462801889	/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillvox_36_console/cmake-build-debug/skillvox_36_console_autogen/timestamp	6892ae1f46b259b
+0	10	1640088419462801889	/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillvox_36_console/cmake-build-debug/skillvox_36_console_autogen/mocs_compilation.cpp	6892ae1f46b259b
+10	19	1640088419474802337	CMakeFiles/skillvox_36_console.dir/skillvox_36_console_autogen/mocs_compilation.cpp.o	9330e83e65878af2
+10	1022	1640088420478839769	CMakeFiles/skillvox_36_console.dir/main.cpp.o	277e5cc39b4b4544
+1022	1126	1640088420578843487	skillvox_36_console	6ac2d9d17e2c5d7b

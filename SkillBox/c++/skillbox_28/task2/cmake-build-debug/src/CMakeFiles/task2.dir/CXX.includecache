@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../header/Train.h
+iostream
+-
+thread
+-
+chrono
+-
+mutex
+-
+utility
+-
+vector
+-
+string
+-
+
+../header/kbd.h
+
+C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_28/task2/src/kbd.cpp
+kbd.h
+C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_28/task2/src/kbd.h
+Train.h
+C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_28/task2/src/Train.h
+iostream
+-
+
+C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_28/task2/src/main.cpp
+iostream
+-
+limits
+-
+mutex
+-
+thread
+-
+vector
+-
+

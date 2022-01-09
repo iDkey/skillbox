@@ -1,0 +1,4 @@
+Name: nlohmann_json
+Description: JSON for Modern C++
+Version: 3.10.4
+Cflags: -IC:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_32/task1_1/out/install/x64-Debug/include

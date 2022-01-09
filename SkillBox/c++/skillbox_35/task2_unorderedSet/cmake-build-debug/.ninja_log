@@ -1,0 +1,8 @@
+# ninja log v5
+0	10	1640032712309580176	task2_unorderedSet_autogen/timestamp	269e4581b30119b
+0	10	1640032712309580176	task2_unorderedSet_autogen/mocs_compilation.cpp	269e4581b30119b
+0	10	1640032712309580176	/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_35/task2_unorderedSet/cmake-build-debug/task2_unorderedSet_autogen/timestamp	269e4581b30119b
+0	10	1640032712309580176	/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_35/task2_unorderedSet/cmake-build-debug/task2_unorderedSet_autogen/mocs_compilation.cpp	269e4581b30119b
+10	17	1640032712317580253	CMakeFiles/task2_unorderedSet.dir/task2_unorderedSet_autogen/mocs_compilation.cpp.o	3ae00edec035bfa0
+10	1237	1640032713537591956	CMakeFiles/task2_unorderedSet.dir/main.cpp.o	1b9d7c21fb688ae7
+1237	1363	1640032713661593146	task2_unorderedSet	81b35873df223973

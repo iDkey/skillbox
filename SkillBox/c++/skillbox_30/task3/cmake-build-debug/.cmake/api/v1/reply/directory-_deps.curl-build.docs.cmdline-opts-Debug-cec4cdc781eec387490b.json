@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/curl-build/docs/cmdline-opts",
+		"source" : "cmake-build-debug/_deps/curl-src/docs/cmdline-opts"
+	}
+}

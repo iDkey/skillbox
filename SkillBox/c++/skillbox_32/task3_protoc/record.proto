@@ -1,0 +1,11 @@
+syntax="proto2";
+
+
+
+message Company{
+  optional string name = 1;
+    optional int32 founding = 2;
+    optional string legalName = 3;
+    optional string occupation = 4;
+    optional bool foreignActivity = 5;
+}

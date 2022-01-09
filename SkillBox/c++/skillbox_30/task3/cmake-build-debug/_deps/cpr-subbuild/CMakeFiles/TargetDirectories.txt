@@ -1,0 +1,3 @@
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_30/task3/cmake-build-debug/_deps/cpr-subbuild/CMakeFiles/rebuild_cache.dir
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_30/task3/cmake-build-debug/_deps/cpr-subbuild/CMakeFiles/edit_cache.dir
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_30/task3/cmake-build-debug/_deps/cpr-subbuild/CMakeFiles/cpr-populate.dir

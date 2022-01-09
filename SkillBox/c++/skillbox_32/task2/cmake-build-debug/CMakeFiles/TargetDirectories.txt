@@ -1,0 +1,7 @@
+C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_32/task2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_32/task2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_32/task2/cmake-build-debug/nlohmann_json/CMakeFiles/edit_cache.dir
+C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_32/task2/cmake-build-debug/nlohmann_json/CMakeFiles/rebuild_cache.dir
+C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_32/task2/cmake-build-debug/src/CMakeFiles/task2.dir
+C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_32/task2/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_32/task2/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

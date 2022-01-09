@@ -1,0 +1,5 @@
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_35/task2_unorderedSet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_35/task2_unorderedSet/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_35/task2_unorderedSet/cmake-build-debug/CMakeFiles/task2_unorderedSet.dir
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_35/task2_unorderedSet/cmake-build-debug/CMakeFiles/task2_unorderedSet_autogen_timestamp_deps.dir
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_35/task2_unorderedSet/cmake-build-debug/CMakeFiles/task2_unorderedSet_autogen.dir

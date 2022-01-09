@@ -1,0 +1,58 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\Users\zholu\Desktop\CPP_primer\SkillBox\c++\skillbox_30\task1
+-- Populating cpr
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_30/task1/cmake-build-debug/_deps/cpr-subbuild
+[ 11%] Performing update step for 'cpr-populate'
+[ 22%] No patch step for 'cpr-populate'
+[ 33%] No configure step for 'cpr-populate'
+[ 44%] No build step for 'cpr-populate'
+[ 55%] No install step for 'cpr-populate'
+[ 66%] No test step for 'cpr-populate'
+[ 77%] Completed 'cpr-populate'
+[100%] Built target cpr-populate
+-- C++ Requests CMake Options
+-- =======================================================
+--   USE_SYSTEM_CURL: OFF
+--   BUILD_CPR_TESTS: OFF
+--   GENERATE_COVERAGE: OFF
+--   CPR_CURL_NOSIGNAL: OFF
+--   USE_SYSTEM_GTEST: OFF
+--   CMAKE_USE_OPENSSL: OFF
+-- =======================================================
+-- Not using system Curl, using built-in curl project instead.
+-- Populating curl
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_30/task1/cmake-build-debug/_deps/curl-subbuild
+[ 11%] Performing update step for 'curl-populate'
+HEAD is now at b81e0b077 RELEASE-NOTES: 7.69.1
+[ 22%] No patch step for 'curl-populate'
+[ 33%] No configure step for 'curl-populate'
+[ 44%] No build step for 'curl-populate'
+[ 55%] No install step for 'curl-populate'
+[ 66%] No test step for 'curl-populate'
+[ 77%] Completed 'curl-populate'
+[100%] Built target curl-populate
+CMake Warning at cmake-build-debug/_deps/curl-src/CMakeLists.txt:51 (message):
+  the curl cmake build system is poorly maintained.  Be aware
+
+
+-- curl version=[7.69.1-DEV]
+CMake Warning at cmake-build-debug/_deps/curl-src/CMake/Macros.cmake:86 (message):
+  Found no *nroff program
+Call Stack (most recent call first):
+  cmake-build-debug/_deps/curl-src/CMakeLists.txt:215 (curl_nroff_check)
+
+
+-- Could NOT find Perl (missing: PERL_EXECUTABLE) 
+-- Perl not found, testing disabled.
+-- Could NOT find LibSSH2 (missing: LIBSSH2_LIBRARY LIBSSH2_INCLUDE_DIR) 
+-- Enabled features: IPv6 AsynchDNS NTLM
+-- Enabled protocols: HTTP
+-- Enabled SSL backends: 
+-- Using CURL_INCLUDE_DIRS: .
+-- Using CURL_LIBRARIES: .
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_30/task1/cmake-build-debug

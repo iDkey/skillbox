@@ -1,0 +1,5 @@
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_33/task2_fish/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_33/task2_fish/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_33/task2_fish/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_33/task2_fish/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_33/task2_fish/cmake-build-debug/src/CMakeFiles/Fish.dir

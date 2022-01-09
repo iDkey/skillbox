@@ -1,0 +1,14 @@
+# Target labels
+ curl-populate
+# Source files and their labels
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_30/task3/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_30/task3/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate.rule
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_30/task3/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete.rule
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_30/task3/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build.rule
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_30/task3/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure.rule
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_30/task3/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download.rule
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_30/task3/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install.rule
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_30/task3/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir.rule
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_30/task3/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch.rule
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_30/task3/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test.rule
+/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_30/task3/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update.rule

@@ -1,0 +1,20 @@
+# ninja log v5
+0	10	1640024128856439970	task1_range_autogen/timestamp	449d69f8f2c745ce
+0	10	1640024128856439970	task1_range_autogen/mocs_compilation.cpp	449d69f8f2c745ce
+0	10	1640024128856439970	/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_35/task1_range/cmake-build-debug/task1_range_autogen/timestamp	449d69f8f2c745ce
+0	10	1640024128856439970	/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_35/task1_range/cmake-build-debug/task1_range_autogen/mocs_compilation.cpp	449d69f8f2c745ce
+11	18	1640024128864440002	CMakeFiles/task1_range.dir/task1_range_autogen/mocs_compilation.cpp.o	7bb837da85b1d8f
+11	1002	1640024129848444032	CMakeFiles/task1_range.dir/main.cpp.o	baed13e85a99efe3
+1003	1108	1640024129952444459	task1_range	e79169c52b26626b
+1	5	1640024140932489972	task1_range_autogen/timestamp	449d69f8f2c745ce
+1	5	1640024140932489972	task1_range_autogen/mocs_compilation.cpp	449d69f8f2c745ce
+1	5	1640024140932489972	/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_35/task1_range/cmake-build-debug/task1_range_autogen/timestamp	449d69f8f2c745ce
+1	5	1640024140932489972	/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_35/task1_range/cmake-build-debug/task1_range_autogen/mocs_compilation.cpp	449d69f8f2c745ce
+5	990	1640024141916494099	CMakeFiles/task1_range.dir/main.cpp.o	baed13e85a99efe3
+990	1108	1640024142032494586	task1_range	e79169c52b26626b
+1	6	1640025350089948548	task1_range_autogen/timestamp	449d69f8f2c745ce
+1	6	1640025350089948548	task1_range_autogen/mocs_compilation.cpp	449d69f8f2c745ce
+1	6	1640025350089948548	/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_35/task1_range/cmake-build-debug/task1_range_autogen/timestamp	449d69f8f2c745ce
+1	6	1640025350089948548	/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_35/task1_range/cmake-build-debug/task1_range_autogen/mocs_compilation.cpp	449d69f8f2c745ce
+6	1001	1640025351081883417	CMakeFiles/task1_range.dir/main.cpp.o	baed13e85a99efe3
+1001	1104	1640025351185876599	task1_range	e79169c52b26626b

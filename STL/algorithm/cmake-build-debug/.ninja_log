@@ -1,0 +1,8 @@
+# ninja log v5
+0	15	1640007875020664578	build.ninja	ff3601f6e33913d1
+0	609	1639922509491622828	CMakeFiles/algorithm.dir/main.cpp.o	3a8a814b06333b00
+1	550	1639751053091601534	task1/src/CMakeFiles/algorithm.dir/task2.cpp.o	735f029832cbb4f6
+0	24	1639782418710953298	CMakeFiles/algorithm.dir/cProgram.c.o	993ea3fefc06b43a
+609	664	1639922509547622973	algorithm	92595d0d60c6aae1
+1	8	1639756442222214809	CMakeFiles/algorithm.dir/task2/src/task2.cpp.o	e2d82c08916194b9
+0	251	1639746392713775698	task1/src/CMakeFiles/algorithm.dir/task1.cpp.o	bc947038a76b3baf

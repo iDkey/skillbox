@@ -1,0 +1,8 @@
+# ninja log v5
+0	10	1640102158515040038	skillbox_34_autogen/timestamp	698de022c221f83b
+0	10	1640102158515040038	skillbox_34_autogen/mocs_compilation.cpp	698de022c221f83b
+0	10	1640102158515040038	/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_34/cmake-build-debug/skillbox_34_autogen/timestamp	698de022c221f83b
+0	10	1640102158515040038	/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_34/cmake-build-debug/skillbox_34_autogen/mocs_compilation.cpp	698de022c221f83b
+10	17	1640102158523040087	CMakeFiles/skillbox_34.dir/skillbox_34_autogen/mocs_compilation.cpp.o	c3aebcf5d18036e6
+10	1093	1640102159599046798	CMakeFiles/skillbox_34.dir/main.cpp.o	10ece4b890ea494b
+1093	1310	1640102159815048145	skillbox_34	348a4ffe660c9b22

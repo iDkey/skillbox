@@ -1,0 +1,88 @@
+{
+  "name": "Titanic",
+  "country": "US",
+  "director": "James Cameron",
+  "writer": "James Cameron",
+  "rate": 7.8,
+  "year": 1997,
+  "time": 174,
+  "actor": [
+    {
+      "name": "Leonardo",
+      "fulName": "DiCaprio",
+      "live": "US",
+      "birth": 1986,
+      "gender": true
+    },
+    {
+      "name": "Kate",
+      "fulName": "Winslet",
+      "live": "UK",
+      "birth": 1988,
+      "gender": false
+    },
+    {
+      "name": "Billy",
+      "fulName": "Zane",
+      "live": "US",
+      "birth": 1982,
+      "gender": true
+    },
+    {
+      "name": "Kathy",
+      "fulName": "Bates",
+      "live": "BL",
+      "birth": 1975,
+      "gender": false
+    },
+    {
+      "name": "Frances",
+      "fulName": "Fisher",
+      "live": "US",
+      "birth": 1968,
+      "gender": false
+    },
+    {
+      "name": "Gloria",
+      "fulName": "Stuart",
+      "live": "US",
+      "birth": 1955,
+      "gender": false
+    },
+    {
+      "name": "Bill",
+      "fulName": "Paxton",
+      "live": "UK",
+      "birth": 1973,
+      "gender": true
+    },
+    {
+      "name": "Bernard",
+      "fulName": "Hill",
+      "live": "US",
+      "birth": 1957,
+      "gender": true
+    },
+    {
+      "name": "David",
+      "fulName": "Garber",
+      "live": "US",
+      "birth": 1967,
+      "gender": true
+    },
+    {
+      "name": "Jonathan",
+      "fulName": "Hyde",
+      "live": "GR",
+      "birth": 1975,
+      "gender": true
+    },
+    {
+      "name": "Suzy",
+      "fulName": "Amis",
+      "live": "IZ",
+      "birth": 1976,
+      "gender": false
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "skillvox_36_console",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "skillvox_36_console::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-skillvox_36_console-Debug-f7bde4d31b7d9833fa3b.json",
+					"name" : "skillvox_36_console",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "skillvox_36_console_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-skillvox_36_console_autogen-Debug-db88634a818d349a57dd.json",
+					"name" : "skillvox_36_console_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "skillvox_36_console_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-skillvox_36_console_autogen_timestamp_deps-Debug-c33653c234f126638a89.json",
+					"name" : "skillvox_36_console_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillvox_36_console/cmake-build-debug",
+		"source" : "/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillvox_36_console"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
