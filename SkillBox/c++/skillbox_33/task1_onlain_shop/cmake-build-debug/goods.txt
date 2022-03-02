@@ -1,5 +1,0 @@
-potato  5
-tomato  4
-sugar  6
-salt  8
-garlic  3

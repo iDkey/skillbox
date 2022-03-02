@@ -1,3 +1,0 @@
-/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_32/task3_protoc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_32/task3_protoc/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_32/task3_protoc/cmake-build-debug/CMakeFiles/task3_protoc.dir

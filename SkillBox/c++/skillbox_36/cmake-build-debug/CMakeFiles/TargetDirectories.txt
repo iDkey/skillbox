@@ -1,5 +1,0 @@
-/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_36/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_36/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_36/cmake-build-debug/CMakeFiles/skillbox_36.dir
-/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_36/cmake-build-debug/CMakeFiles/skillbox_36_autogen_timestamp_deps.dir
-/home/jollu/Desktop/CPP_primer/SkillBox/c++/skillbox_36/cmake-build-debug/CMakeFiles/skillbox_36_autogen.dir

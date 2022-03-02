@@ -1,5 +1,0 @@
-C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_28/task3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_28/task3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_28/task3/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
-C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_28/task3/cmake-build-debug/src/CMakeFiles/task3.dir
-C:/Users/zholu/Desktop/CPP_primer/SkillBox/c++/skillbox_28/task3/cmake-build-debug/src/CMakeFiles/edit_cache.dir
